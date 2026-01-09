@@ -1,4 +1,4 @@
-package leetcodesolutions
+package main
 
 // To solve this problem, we iterate through the arrays from back to front using two indices (one for each array)
 // // and a third index to track the current position in the total length of nums1.

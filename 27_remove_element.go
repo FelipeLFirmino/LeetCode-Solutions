@@ -1,4 +1,4 @@
-package leetcodesolutions
+package main
 
 //To solve remove element we need to think of k as a counter and index at the same time
 //K IS THE NUMBER OF VALUES != VAL
